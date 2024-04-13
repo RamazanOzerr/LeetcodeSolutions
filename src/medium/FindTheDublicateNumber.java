@@ -1,3 +1,5 @@
+package medium;
+
 public class FindTheDublicateNumber {
     public int findDuplicate(int[] nums) {
 

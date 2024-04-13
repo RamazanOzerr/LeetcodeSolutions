@@ -1,3 +1,5 @@
+package easy;
+
 public class FirstBadVersion {
 
     /* The isBadVersion API is defined in the parent class VersionControl.

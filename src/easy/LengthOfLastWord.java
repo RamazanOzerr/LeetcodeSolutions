@@ -1,3 +1,5 @@
+package easy;
+
 public class LengthOfLastWord {
     public int lengthOfLastWord(String s) {
         int count = 0;
