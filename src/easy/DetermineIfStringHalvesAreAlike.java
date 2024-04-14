@@ -12,7 +12,6 @@ public class DetermineIfStringHalvesAreAlike {
             if(isVowel(s.charAt(rightIndex))) rightCount++;
             leftIndex++;
             rightIndex--;
-
         }
 
         return leftCount == rightCount;
