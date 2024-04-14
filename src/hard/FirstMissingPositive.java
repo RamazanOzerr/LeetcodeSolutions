@@ -1,5 +1,7 @@
 package hard;
 
+import java.util.HashSet;
+
 public class FirstMissingPositive {
     public int firstMissingPositive(int[] nums) {
 
